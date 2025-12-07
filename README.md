@@ -1,5 +1,6 @@
 # LinkedIn Profile Insights - Chrome Extension
 COMPLETELY DEVELOPED WITH GOOGLE ANTIGRAVITY(MODEL::GEMINI 3 PRO(HIGH))
+
 A Chrome Extension for unlocking LinkedIn profile analytics and viewer insights.
 
 ## Features
